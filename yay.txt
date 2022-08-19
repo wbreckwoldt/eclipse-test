@@ -1,0 +1,1 @@
+https://download.eclipse.org/modeling/mdt/papyrus/components//sysml16/releases/2.2.0_b/rcps/products/
