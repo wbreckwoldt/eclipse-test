@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.emf.compare.diagram.sirius"
+      label="%featureName"
+      version="3.3.18.202202240907"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.emf.compare" version="3.2.0.qualifier"/>
+      <import feature="org.eclipse.emf.compare.diagram.gmf" version="3.2.0.qualifier"/>
+      <import feature="org.eclipse.emf.compare.ide.ui" version="3.2.0.qualifier"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.emf.compare.diagram.ide.ui.sirius"
+         download-size="44"
+         install-size="88"
+         version="1.1.1.202202240907"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.emf.compare.diagram.sirius"
+         download-size="20"
+         install-size="38"
+         version="1.1.0.202202240907"
+         unpack="false"/>
+
+</feature>
