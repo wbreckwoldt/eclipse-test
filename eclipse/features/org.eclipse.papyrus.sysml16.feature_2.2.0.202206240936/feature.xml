@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.papyrus.sysml16.feature"
+      label="%featureName"
+      version="2.2.0.202206240936"
+      provider-name="%providerName"
+      plugin="org.eclipse.papyrus.sysml16.ui">
+
+   <description url="https://eclipse.org/papyrus/">
+      This feature enables to create, manage, validate SysML 1.6 models. It contains diagram bundles (BDD, IBD, PAR, REQ), tables bundles and also all user interface elements.
+   </description>
+
+   <copyright url="https://www.eclipse.org/legal/epl-2.0/">
+      Copyright (c) 2019 CEA LIST
+ All rights reserved.   This program and the accompanying materials
+ are made available under the terms of the Eclipse Public License 2.0
+ which accompanies this distribution, and is available at
+ https://www.eclipse.org/legal/epl-2.0/ 
+  
+ SPDX-License-Identifier: EPL-2.0
+   </copyright>
+
+   <requires>
+      <import feature="org.eclipse.papyrus.sdk.feature" version="6.0.0" match="compatible"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16"
+         download-size="431"
+         install-size="1935"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.ui"
+         download-size="111"
+         install-size="366"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.diagram.common"
+         download-size="93"
+         install-size="513"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.diagram.blockdefinition"
+         download-size="31"
+         install-size="120"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.diagram.internalblock"
+         download-size="21"
+         install-size="58"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.diagram.parametric"
+         download-size="41"
+         install-size="78"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.diagram.requirement"
+         download-size="17"
+         install-size="41"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.edit"
+         download-size="199"
+         install-size="385"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.service.types"
+         download-size="85"
+         install-size="306"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.validation"
+         download-size="183"
+         install-size="422"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.nattable.allocation"
+         download-size="19"
+         install-size="40"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.nattable.common"
+         download-size="23"
+         install-size="52"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.nattable.requirement"
+         download-size="20"
+         install-size="39"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.nattable.ui"
+         download-size="42"
+         install-size="94"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.architecture"
+         download-size="40"
+         install-size="217"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.sysml16.modelexplorer"
+         download-size="15"
+         install-size="20"
+         version="2.0.0.202206240936"
+         unpack="false"/>
+
+<license url="%licenseURL">
+      %license
+   </license></feature>

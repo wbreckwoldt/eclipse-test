@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="org.eclipse.papyrus.sysml16.elementgroup.feature.source" version="1.1.0.202206240936" label="%featureName" provider-name="%providerName">
+  <description url="https://eclipse.org/papyrus/">
+      This feature contains plugins in order to create a glossary for models
+   </description>
+  <copyright url="https://www.eclipse.org/legal/epl-2.0/">
+      Copyright (c) 2021 CEA LIST
+All rights reserved.   This program and the accompanying materials
+are made available under the terms of the Eclipse Public License
+2.0
+which accompanies this distribution, and is available at
+https://www.eclipse.org/legal/epl-2.0/ 
+SPDX-License-Identifier: EPL-2.0
+   </copyright>
+  <license url="%licenseURL">
+      %license
+   </license>
+  <includes id="org.eclipse.papyrus.sysml16.elementgroup.feature" version="1.1.0.202206240936"/>
+  <plugin id="org.eclipse.papyrus.sysml16.elementgroup.source" version="1.0.0.202206240936" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="org.eclipse.papyrus.sysml16.elementgroup.ui.source" version="1.0.0.202206240936" download-size="0" install-size="0" unpack="false"/>
+</feature>

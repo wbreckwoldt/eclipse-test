@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.papyrus.infra.ui.feature"
+      label="%featureName"
+      version="3.1.0.202205251022"
+      provider-name="%providerName">
+
+   <description url="https://eclipse.org/papyrus/">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.xwt.feature" version="1.6.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.ui"
+         download-size="328"
+         install-size="693"
+         version="3.4.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.ui.architecture"
+         download-size="169"
+         install-size="354"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.onefile.ui"
+         download-size="103"
+         install-size="212"
+         version="2.0.100.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.ui.emf"
+         download-size="142"
+         install-size="288"
+         version="3.1.100.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.ui.resources"
+         download-size="52"
+         install-size="97"
+         version="2.1.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.constraints.ui"
+         download-size="14"
+         install-size="19"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.types.editor"
+         download-size="89"
+         install-size="173"
+         version="4.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.types.ui"
+         download-size="40"
+         install-size="79"
+         version="4.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.services.edit.ui"
+         download-size="24"
+         install-size="40"
+         version="4.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.services.resourceloading.ui"
+         download-size="67"
+         install-size="134"
+         version="2.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.properties.ui"
+         download-size="267"
+         install-size="563"
+         version="4.1.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.editor.welcome"
+         download-size="143"
+         install-size="343"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.editor.welcome.nattable"
+         download-size="58"
+         install-size="124"
+         version="4.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.newchild.ui"
+         download-size="29"
+         install-size="52"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.newchild.editor"
+         download-size="83"
+         install-size="168"
+         version="4.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.ui.fonts"
+         download-size="321"
+         install-size="654"
+         version="2.0.0.202205251022"
+         unpack="false"/>
+
+</feature>

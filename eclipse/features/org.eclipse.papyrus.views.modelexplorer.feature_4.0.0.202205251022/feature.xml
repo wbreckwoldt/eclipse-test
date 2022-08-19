@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.papyrus.views.modelexplorer.feature"
+      label="%featureName"
+      version="4.0.0.202205251022"
+      provider-name="%providerName">
+
+   <description url="https://eclipse.org/papyrus/">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.papyrus.views.modelexplorer"
+         download-size="252"
+         install-size="523"
+         version="5.0.100.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.views.modelexplorer.resourceloading"
+         download-size="28"
+         install-size="47"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.views.modelexplorer.widgets"
+         download-size="19"
+         install-size="26"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.views.modelexplorer.newchild"
+         download-size="26"
+         install-size="41"
+         version="2.0.0.202205251022"
+         unpack="false"/>
+
+</feature>

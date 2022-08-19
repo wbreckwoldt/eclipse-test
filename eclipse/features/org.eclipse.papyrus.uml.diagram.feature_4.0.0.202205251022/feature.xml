@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.papyrus.uml.diagram.feature"
+      label="%featureName"
+      version="4.0.0.202205251022"
+      provider-name="%providerName">
+
+   <description url="https://eclipse.org/papyrus/">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.clazz"
+         download-size="1131"
+         install-size="3192"
+         version="5.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.common"
+         download-size="1954"
+         install-size="4154"
+         version="5.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.common.groups"
+         download-size="112"
+         install-size="263"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.component"
+         download-size="584"
+         install-size="1517"
+         version="5.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.deployment"
+         download-size="488"
+         install-size="1295"
+         version="5.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.icons"
+         download-size="334"
+         install-size="2712"
+         version="2.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.menu"
+         download-size="240"
+         install-size="605"
+         version="3.0.100.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.modelexplorer"
+         download-size="19"
+         install-size="27"
+         version="2.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.navigation"
+         download-size="36"
+         install-size="62"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.profile"
+         download-size="599"
+         install-size="1597"
+         version="5.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.statemachine"
+         download-size="609"
+         install-size="1506"
+         version="5.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.usecase"
+         download-size="546"
+         install-size="1390"
+         version="6.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.wizards"
+         download-size="178"
+         install-size="359"
+         version="4.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.communication"
+         download-size="488"
+         install-size="1132"
+         version="6.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.sequence"
+         download-size="1541"
+         install-size="3573"
+         version="7.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.activity"
+         download-size="3049"
+         install-size="7303"
+         version="5.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.composite"
+         download-size="1382"
+         install-size="3891"
+         version="5.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.dnd"
+         download-size="73"
+         install-size="144"
+         version="2.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.stereotype.edition"
+         download-size="87"
+         install-size="179"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.timing"
+         download-size="979"
+         install-size="2316"
+         version="2.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.interactionoverview"
+         download-size="160"
+         install-size="369"
+         version="4.1.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.symbols"
+         download-size="35"
+         install-size="75"
+         version="2.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.symbols.properties"
+         download-size="14"
+         install-size="20"
+         version="2.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.linklf"
+         download-size="47"
+         install-size="103"
+         version="3.0.0.202205251022"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.uml.diagram.sequence.restrictions"
+         download-size="15"
+         install-size="19"
+         version="2.1.0.202205251022"
+         unpack="false"/>
+
+</feature>
