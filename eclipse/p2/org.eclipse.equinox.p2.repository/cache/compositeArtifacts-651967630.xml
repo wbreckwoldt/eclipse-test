@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<repository name="Papyrus-sysml16" type="org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository" version="1.0.0">
-  <properties size="1">
-    <property name="p2.timestamp" value="1656075252000"/>
-  </properties>
-  <children size="1">
-    <child location="../releases/2.2.0/p2"/>
-  </children>
-</repository>
